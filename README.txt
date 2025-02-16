@@ -42,7 +42,7 @@ INSTRUCTIONS:
 7. To add your own images to the RPC head to the discord developer portal and head down to "Rich Presence" from there click "Add Image(s)" after you've added an image copy and paste the images in the correct line of code.
 
 
-© 𝖀𝖓𝖘𝖈𝖍𝖊𝖉𝖚𝖑𝖊𝖉𝖘 2024
+© 𝖀𝖓𝖘𝖈𝖍𝖊𝖉𝖚𝖑𝖊𝖉𝖉 2025
 
 
                                                                
